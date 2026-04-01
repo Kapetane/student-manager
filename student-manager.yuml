@@ -1,0 +1,16 @@
+[Student]-(Sign In)
+[Student]-(Enroll in Course)
+[Student]-(View Grades)
+
+(Enroll in Course)>(Browse Courses)
+(Enroll in Course)>(Select Course)
+(Enroll in Course)<(Drop Course)
+
+(Drop Course)<(Enroll in Course)
+
+[Teacher]-(Manage Courses)
+[Teacher]-(Assign Grades)
+
+[Admin]-(Add Student)
+[Admin]-(Remove Student)
+[Admin]-(Manage Courses)
